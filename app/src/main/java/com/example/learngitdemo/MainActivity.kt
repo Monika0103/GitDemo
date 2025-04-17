@@ -15,6 +15,7 @@ import com.example.learngitdemo.ui.theme.LearnGitDemoTheme
 
 //main first commit
 //main second commit
+//BranchTwo main commit one
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
